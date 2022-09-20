@@ -1,0 +1,26 @@
+
+CHIP ShiftLeft{
+	IN in[16];
+    OUT out[16];
+     
+    PARTS:
+	And (a=false, b=false, out=out[0]);
+	Mux (a=false, b=in[0], sel=true, out=out[1]);
+	Mux (a=false, b=in[1], sel=true, out=out[2]);
+	Mux (a=false, b=in[2], sel=true, out=out[3]);
+	Mux (a=false, b=in[3], sel=true, out=out[4]);
+	Mux (a=false, b=in[4], sel=true, out=out[5]);
+	Mux (a=false, b=in[5], sel=true, out=out[6]);
+	Mux (a=false, b=in[6], sel=true, out=out[7]);
+	Mux (a=false, b=in[7], sel=true, out=out[8]);
+	Mux (a=false, b=in[8], sel=true, out=out[9]);
+	Mux (a=false, b=in[9], sel=true, out=out[10]);
+	Mux (a=false, b=in[10], sel=true, out=out[11]);
+	Mux (a=false, b=in[11], sel=true, out=out[12]);
+	Mux (a=false, b=in[12], sel=true, out=out[13]);
+	Mux (a=false, b=in[13], sel=true, out=out[14]);
+	Mux (a=false, b=in[14], sel=true, out=out[15]);
+
+
+
+}
