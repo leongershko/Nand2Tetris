@@ -1,4 +1,5 @@
 # Nand2Teris
+By Raz and Leon wrriten in 2022
 
 All projects for Nand2Teris wrriten in Python
 
