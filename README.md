@@ -1,7 +1,7 @@
 # All projects for Nand2Teris
 
 
-##Nand2Tetris website: http://nand2tetris.org/
+## Nand2Tetris website: http://nand2tetris.org/
 
 *Project 0: Introduction "\n"
 *Project 1: Boolean Logic
