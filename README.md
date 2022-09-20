@@ -1,7 +1,8 @@
-# All projects for Nand2Teris
+# Nand2Teris
 
+All projects for Nand2Teris wrriten in Python
 
-## Nand2Tetris website: http://nand2tetris.org/
+Nand2Tetris website: http://nand2tetris.org/
 
 *Project 0: Introduction "\n"
 *Project 1: Boolean Logic
